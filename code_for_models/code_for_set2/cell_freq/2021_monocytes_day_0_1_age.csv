@@ -1,0 +1,34 @@
+,subject_id,infancy_vac,Age,correct_age,biological_sex,ethnicity,race,year_of_birth,date_of_boost,dataset,specimen_id,actual_day_relative_to_boost,planned_day_relative_to_boost,specimen_type,visit,cell_type_name,percent_live_cell_day_0,specimen_id_d1,percent_live_cell_day1,fold_change
+0,63,wP,28,23,Female,Not Hispanic or Latino,White,1/1/95,11/26/18,2021_dataset,483,0,0,Blood,1,Monocytes,15.3,484,18.7,1.222222222
+1,64,wP,30,25,Male,Not Hispanic or Latino,Asian,1/1/93,11/26/18,2021_dataset,490,0,0,Blood,1,Monocytes,12.9,491,13.8,1.069767442
+2,65,wP,33,28,Male,Not Hispanic or Latino,White,1/1/90,12/3/18,2021_dataset,498,0,0,Blood,1,Monocytes,15.8,499,20.4,1.291139241
+3,66,wP,47,42,Female,Not Hispanic or Latino,Black or African American,1/1/76,12/3/18,2021_dataset,506,0,0,Blood,1,Monocytes,15.8,507,13.9,0.879746835
+4,67,wP,51,47,Female,Hispanic or Latino,White,1/1/72,1/28/19,2021_dataset,513,0,0,Blood,1,Monocytes,34.6,514,31.1,0.898843931
+5,68,wP,51,47,Male,Hispanic or Latino,White,1/1/72,1/28/19,2021_dataset,521,0,0,Blood,1,Monocytes,13.5,522,15.5,1.148148148
+6,69,wP,33,29,Female,Hispanic or Latino,White,1/1/90,1/28/19,2021_dataset,529,0,0,Blood,1,Monocytes,13.1,530,18.9,1.442748092
+7,70,aP,25,21,Male,Not Hispanic or Latino,American Indian/Alaska Native,1/1/98,1/28/19,2021_dataset,537,0,0,Blood,1,Monocytes,32.3,538,46.1,1.427244582
+8,71,aP,25,21,Female,Not Hispanic or Latino,White,1/1/98,1/28/19,2021_dataset,546,0,0,Blood,1,Monocytes,12.2,547,18.2,1.491803279
+9,72,wP,32,28,Female,Not Hispanic or Latino,White,1/1/91,2/25/19,2021_dataset,554,0,0,Blood,1,Monocytes,19.9,555,27.5,1.381909548
+10,73,wP,28,24,Female,Not Hispanic or Latino,White,1/1/95,2/25/19,2021_dataset,562,0,0,Blood,1,Monocytes,15.7,563,23.4,1.49044586
+11,74,wP,28,24,Female,Not Hispanic or Latino,White,1/1/95,2/25/19,2021_dataset,569,0,0,Blood,1,Monocytes,36.3,570,50,1.377410468
+12,76,aP,25,21,Female,Not Hispanic or Latino,Asian,1/1/98,2/25/19,2021_dataset,585,0,0,Blood,1,Monocytes,18,586,22.3,1.238888889
+13,77,wP,35,31,Male,Not Hispanic or Latino,White,1/1/88,3/18/19,2021_dataset,593,0,0,Blood,1,Monocytes,28.8,594,31,1.076388889
+14,78,wP,30,26,Female,Not Hispanic or Latino,White,1/1/93,3/18/19,2021_dataset,601,0,0,Blood,1,Monocytes,29,602,35.7,1.231034483
+15,79,wP,36,32,Male,Not Hispanic or Latino,White,1/1/87,3/18/19,2021_dataset,608,0,0,Blood,1,Monocytes,41.5,609,52.6,1.26746988
+16,80,wP,31,27,Female,Not Hispanic or Latino,Asian,1/1/92,3/18/19,2021_dataset,616,0,0,Blood,1,Monocytes,21.9,617,26.4,1.205479452
+17,81,wP,30,26,Male,Not Hispanic or Latino,White,1/1/93,3/18/19,2021_dataset,623,0,0,Blood,1,Monocytes,34.9,624,35.6,1.020057307
+18,82,aP,25,21,Female,Not Hispanic or Latino,More Than One Race,1/1/98,3/18/19,2021_dataset,630,0,0,Blood,1,Monocytes,22.5,631,20.5,0.911111111
+19,83,aP,24,20,Female,Not Hispanic or Latino,White,1/1/99,4/8/19,2021_dataset,636,0,0,Blood,1,Monocytes,32.4,637,27.7,0.854938272
+20,84,aP,26,22,Female,Not Hispanic or Latino,More Than One Race,1/1/97,4/8/19,2021_dataset,643,0,0,Blood,1,Monocytes,18.9,644,25.1,1.328042328
+21,85,aP,123,19,Female,Hispanic or Latino,White,1/1/00,4/29/19,2021_dataset,650,0,0,Blood,1,Monocytes,19.7,651,18.7,0.949238579
+22,86,aP,25,21,Female,Not Hispanic or Latino,Asian,1/1/98,4/29/19,2021_dataset,657,0,0,Blood,1,Monocytes,23.5,658,25.2,1.072340426
+23,87,aP,123,19,Male,Not Hispanic or Latino,Asian,1/1/00,4/29/19,2021_dataset,664,0,0,Blood,1,Monocytes,22.9,665,22.5,0.982532751
+24,88,aP,123,19,Male,Not Hispanic or Latino,Asian,1/1/00,4/29/19,2021_dataset,669,0,0,Blood,1,Monocytes,17.6,670,20.2,1.147727273
+25,89,aP,26,22,Female,Not Hispanic or Latino,Asian,1/1/97,6/3/19,2021_dataset,674,0,0,Blood,1,Monocytes,15.7,675,16.6,1.057324841
+26,90,aP,24,20,Female,Not Hispanic or Latino,Asian,1/1/99,6/3/19,2021_dataset,681,0,0,Blood,1,Monocytes,20.6,682,21.6,1.048543689
+27,91,aP,25,21,Male,Unknown,Unknown or Not Reported,1/1/98,6/3/19,2021_dataset,688,0,0,Blood,1,Monocytes,25.4,689,40.4,1.590551181
+28,92,aP,123,19,Female,Hispanic or Latino,White,1/1/00,6/24/19,2021_dataset,695,0,0,Blood,1,Monocytes,40.6,696,33,0.812807882
+29,93,aP,27,23,Female,Not Hispanic or Latino,More Than One Race,1/1/96,6/24/19,2021_dataset,702,0,0,Blood,1,Monocytes,16.3,703,15,0.920245399
+30,94,aP,24,20,Male,Not Hispanic or Latino,Unknown or Not Reported,1/1/99,6/24/19,2021_dataset,709,0,0,Blood,1,Monocytes,26.2,710,39.5,1.507633588
+31,95,aP,25,21,Female,Hispanic or Latino,Unknown or Not Reported,1/1/98,6/24/19,2021_dataset,716,0,0,Blood,1,Monocytes,17.3,717,23.5,1.358381503
+32,96,aP,123,19,Male,Hispanic or Latino,Unknown or Not Reported,1/1/00,6/24/19,2021_dataset,723,0,0,Blood,1,Monocytes,34.2,724,35,1.023391813

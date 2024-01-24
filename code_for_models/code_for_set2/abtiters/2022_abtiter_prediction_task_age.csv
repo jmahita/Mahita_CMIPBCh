@@ -1,0 +1,22 @@
+,subject_id,infancy_vac,Age,biological_sex,ethnicity,race,year_of_birth,date_of_boost,dataset,specimen_id,actual_day_relative_to_boost,planned_day_relative_to_boost,specimen_type,visit,isotype,is_antigen_specific,antigen,MFI,day_0_MFI_normalised,unit,lower_limit_of_detection
+0,97,wP,35,Male,Not Hispanic or Latino,White,1/1/86,11/29/21,2022_dataset,732,0,0,Blood,3,IgG,TRUE,PT,1.060617658,1.060617658,MFI,0.118887152
+1,98,wP,28,Female,Not Hispanic or Latino,White,1/1/93,9/27/21,2022_dataset,742,0,0,Blood,5,IgG,TRUE,PT,1.309938182,1.309938182,MFI,0.118887152
+2,99,aP,22,Female,Hispanic or Latino,Unknown or Not Reported,1/1/99,9/7/21,2022_dataset,752,0,0,Blood,5,IgG,TRUE,PT,1.19622737,1.19622737,MFI,0.118887152
+3,100,aP,20,Female,Not Hispanic or Latino,White,1/1/01,11/1/21,2022_dataset,762,0,0,Blood,5,IgG,TRUE,PT,0.967751665,0.967751665,MFI,0.118887152
+4,101,aP,18,Male,Not Hispanic or Latino,White,1/1/03,11/1/21,2022_dataset,772,0,0,Blood,3,IgG,TRUE,PT,1.651583065,1.651583065,MFI,0.118887152
+5,102,aP,18,Male,Not Hispanic or Latino,White,1/1/03,11/1/21,2022_dataset,782,0,0,Blood,3,IgG,TRUE,PT,1.735925611,1.735925611,MFI,0.118887152
+6,103,wP,27,Female,Not Hispanic or Latino,White,1/1/94,9/7/21,2022_dataset,792,0,0,Blood,3,IgG,TRUE,PT,0.704329184,0.704329184,MFI,0.118887152
+7,104,wP,32,Female,Not Hispanic or Latino,Asian,1/1/89,9/7/21,2022_dataset,802,0,0,Blood,3,IgG,TRUE,PT,0.521285912,0.521285912,MFI,0.118887152
+8,105,wP,27,Female,Not Hispanic or Latino,White,1/1/94,9/7/21,2022_dataset,811,0,0,Blood,3,IgG,TRUE,PT,0.90493828,0.90493828,MFI,0.118887152
+9,106,aP,25,Female,Not Hispanic or Latino,White,1/1/96,9/7/21,2022_dataset,821,0,0,Blood,3,IgG,TRUE,PT,0.624926214,0.624926214,MFI,0.118887152
+10,107,aP,23,Female,Not Hispanic or Latino,Asian,1/1/98,9/7/21,2022_dataset,831,0,0,Blood,3,IgG,TRUE,PT,0.131211769,0.131211769,MFI,0.118887152
+11,108,wP,26,Female,Not Hispanic or Latino,White,1/1/95,9/27/21,2022_dataset,841,0,0,Blood,3,IgG,TRUE,PT,1.013248964,1.013248964,MFI,0.118887152
+12,109,wP,32,Female,Not Hispanic or Latino,White,1/1/89,9/27/21,2022_dataset,851,0,0,Blood,3,IgG,TRUE,PT,0.664251474,0.664251474,MFI,0.118887152
+13,110,aP,24,Female,Hispanic or Latino,White,1/1/97,9/27/21,2022_dataset,861,0,0,Blood,3,IgG,TRUE,PT,0.519988584,0.519988584,MFI,0.118887152
+14,111,wP,25,Male,Not Hispanic or Latino,White,1/1/96,10/18/21,2022_dataset,871,0,0,Blood,3,IgG,TRUE,PT,1.29549892,1.29549892,MFI,0.118887152
+15,112,aP,25,Male,Not Hispanic or Latino,White,1/1/96,10/18/21,2022_dataset,882,0,0,Blood,3,IgG,TRUE,PT,1.56604049,1.56604049,MFI,0.118887152
+16,114,wP,31,Male,Not Hispanic or Latino,Asian,1/1/90,10/18/21,2022_dataset,892,0,0,Blood,3,IgG,TRUE,PT,0.321691975,0.321691975,MFI,0.118887152
+17,115,aP,19,Female,Not Hispanic or Latino,Asian,1/1/02,11/1/21,2022_dataset,902,0,0,Blood,3,IgG,TRUE,PT,1.712752087,1.712752087,MFI,0.118887152
+18,116,aP,21,Male,Not Hispanic or Latino,White,1/1/00,11/29/21,2022_dataset,912,0,0,Blood,3,IgG,TRUE,PT,1.876993831,1.876993831,MFI,0.118887152
+19,117,aP,27,Female,Hispanic or Latino,More Than One Race,1/1/94,11/29/21,2022_dataset,922,0,0,Blood,3,IgG,TRUE,PT,1.128127372,1.128127372,MFI,0.118887152
+20,118,aP,23,Male,Not Hispanic or Latino,Asian,1/1/98,1/24/22,2022_dataset,932,0,0,Blood,3,IgG,TRUE,PT,0.969561438,0.969561438,MFI,0.118887152

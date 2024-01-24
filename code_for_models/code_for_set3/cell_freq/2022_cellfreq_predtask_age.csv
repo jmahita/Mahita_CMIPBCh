@@ -1,0 +1,22 @@
+﻿subject_id,Age,infancy_vac,biological_sex,ethnicity,race,year_of_birth,date_of_boost,dataset,specimen_id,actual_day_relative_to_boost,planned_day_relative_to_boost,specimen_type,visit,cell_type_name,percent_live_cell
+97,35,wP,Male,Not Hispanic or Latino,White,1/1/86,11/29/21,2022_dataset,732,0,0,Blood,3,Monocytes,21
+98,28,wP,Female,Not Hispanic or Latino,White,1/1/93,9/27/21,2022_dataset,742,0,0,Blood,5,Monocytes,14.3
+99,22,aP,Female,Hispanic or Latino,Unknown or Not Reported,1/1/99,9/7/21,2022_dataset,752,0,0,Blood,5,Monocytes,25.8
+100,20,aP,Female,Not Hispanic or Latino,White,1/1/01,11/1/21,2022_dataset,762,0,0,Blood,5,Monocytes,22.9
+101,18,aP,Male,Not Hispanic or Latino,White,1/1/03,11/1/21,2022_dataset,772,0,0,Blood,3,Monocytes,20.3
+102,18,aP,Male,Not Hispanic or Latino,White,1/1/03,11/1/21,2022_dataset,782,0,0,Blood,3,Monocytes,29.3
+103,27,wP,Female,Not Hispanic or Latino,White,1/1/94,9/7/21,2022_dataset,792,0,0,Blood,3,Monocytes,24.8
+104,32,wP,Female,Not Hispanic or Latino,Asian,1/1/89,9/7/21,2022_dataset,802,0,0,Blood,3,Monocytes,17
+105,27,wP,Female,Not Hispanic or Latino,White,1/1/94,9/7/21,2022_dataset,811,0,0,Blood,3,Monocytes,27.5
+106,25,aP,Female,Not Hispanic or Latino,White,1/1/96,9/7/21,2022_dataset,821,0,0,Blood,3,Monocytes,18.5
+107,23,aP,Female,Not Hispanic or Latino,Asian,1/1/98,9/7/21,2022_dataset,831,0,0,Blood,3,Monocytes,19.6
+108,26,wP,Female,Not Hispanic or Latino,White,1/1/95,9/27/21,2022_dataset,841,0,0,Blood,3,Monocytes,22
+109,32,wP,Female,Not Hispanic or Latino,White,1/1/89,9/27/21,2022_dataset,851,0,0,Blood,3,Monocytes,19.4
+110,24,aP,Female,Hispanic or Latino,White,1/1/97,9/27/21,2022_dataset,861,0,0,Blood,3,Monocytes,28.4
+111,25,wP,Male,Not Hispanic or Latino,White,1/1/96,10/18/21,2022_dataset,871,0,0,Blood,3,Monocytes,36.2
+112,25,aP,Male,Not Hispanic or Latino,White,1/1/96,10/18/21,2022_dataset,882,0,0,Blood,3,Monocytes,22
+114,31,wP,Male,Not Hispanic or Latino,Asian,1/1/90,10/18/21,2022_dataset,892,0,0,Blood,3,Monocytes,18.5
+115,19,aP,Female,Not Hispanic or Latino,Asian,1/1/02,11/1/21,2022_dataset,902,0,0,Blood,3,Monocytes,18
+116,21,aP,Male,Not Hispanic or Latino,White,1/1/00,11/29/21,2022_dataset,912,0,0,Blood,3,Monocytes,22.2
+117,27,aP,Female,Hispanic or Latino,More Than One Race,1/1/94,11/29/21,2022_dataset,922,0,0,Blood,3,Monocytes,11.9
+118,23,aP,Male,Not Hispanic or Latino,Asian,1/1/98,1/24/22,2022_dataset,932,0,0,Blood,3,Monocytes,14.1

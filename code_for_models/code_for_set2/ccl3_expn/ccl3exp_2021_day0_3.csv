@@ -1,0 +1,37 @@
+﻿subject_id,infancy_vac,biological_sex,ethnicity,race,year_of_birth,date_of_boost,dataset,specimen_id,actual_day_relative_to_boost,planned_day_relative_to_boost,specimen_type,visit,ensembl_id, raw_count,tpm_day0,specimen_id_day3, raw_count_day3, tpm_day3,fold_change
+61,wP,Female,Not Hispanic or Latino,Unknown or Not Reported,1/1/87,4/8/19,2021_dataset,468,-4,0,Blood,1,ENSG00000277632.1,38809,4216.989,470,420,43.928,0.010416911
+62,wP,Female,Not Hispanic or Latino,Asian,1/1/93,11/26/18,2021_dataset,475,0,0,Blood,1,ENSG00000277632.1,1643,121.559,477,1532,171.527,1.41105965
+63,wP,Female,Not Hispanic or Latino,White,1/1/95,11/26/18,2021_dataset,483,0,0,Blood,1,ENSG00000277632.1,1147,102.39,485,615,59.573,0.581824397
+64,wP,Male,Not Hispanic or Latino,Asian,1/1/93,11/26/18,2021_dataset,490,0,0,Blood,1,ENSG00000277632.1,1424,107.453,492,644,85.184,0.792755903
+65,wP,Male,Not Hispanic or Latino,White,1/1/90,12/3/18,2021_dataset,498,0,0,Blood,1,ENSG00000277632.1,1930,193.696,500,2353,256.283,1.323119734
+66,wP,Female,Not Hispanic or Latino,Black or African American,1/1/76,12/3/18,2021_dataset,506,0,0,Blood,1,ENSG00000277632.1,296,31.955,508,989,67.608,2.115725239
+67,wP,Female,Hispanic or Latino,White,1/1/72,1/28/19,2021_dataset,513,0,0,Blood,1,ENSG00000277632.1,434,58.27,515,453,42.548,0.73018706
+68,wP,Male,Hispanic or Latino,White,1/1/72,1/28/19,2021_dataset,521,0,0,Blood,1,ENSG00000277632.1,467,56.838,523,324,43.42,0.763925543
+69,wP,Female,Hispanic or Latino,White,1/1/90,1/28/19,2021_dataset,529,0,0,Blood,1,ENSG00000277632.1,449,45.152,531,792,76.05,1.684310773
+70,aP,Male,Not Hispanic or Latino,American Indian/Alaska Native,1/1/98,1/28/19,2021_dataset,537,0,0,Blood,1,ENSG00000277632.1,427,55.304,539,360,33.555,0.606737307
+71,aP,Female,Not Hispanic or Latino,White,1/1/98,1/28/19,2021_dataset,546,0,0,Blood,1,ENSG00000277632.1,587,62.457,548,942,91.358,1.462734361
+72,wP,Female,Not Hispanic or Latino,White,1/1/91,2/25/19,2021_dataset,554,0,0,Blood,1,ENSG00000277632.1,513,57.928,556,302,34.72,0.599364729
+73,wP,Female,Not Hispanic or Latino,White,1/1/95,2/25/19,2021_dataset,562,0,0,Blood,1,ENSG00000277632.1,189,22.09,564,420,41.249,1.867315527
+74,wP,Female,Not Hispanic or Latino,White,1/1/95,2/25/19,2021_dataset,569,0,0,Blood,1,ENSG00000277632.1,117,13.639,571,207,26.991,1.978957402
+75,aP,Female,Not Hispanic or Latino,Native Hawaiian or Other Pacific Islander,1/1/98,2/25/19,2021_dataset,577,0,0,Blood,1,ENSG00000277632.1,372,50.226,579,242,31.656,0.630271174
+76,aP,Female,Not Hispanic or Latino,Asian,1/1/98,2/25/19,2021_dataset,585,0,0,Blood,1,ENSG00000277632.1,193,24.348,587,205,25.604,1.051585346
+77,wP,Male,Not Hispanic or Latino,White,1/1/88,3/18/19,2021_dataset,593,0,0,Blood,1,ENSG00000277632.1,2350,296.634,595,1928,233.656,0.787691229
+78,wP,Female,Not Hispanic or Latino,White,1/1/93,3/18/19,2021_dataset,601,0,0,Blood,1,ENSG00000277632.1,1601,141.206,603,312,28.977,0.205210827
+79,wP,Male,Not Hispanic or Latino,White,1/1/87,3/18/19,2021_dataset,608,0,0,Blood,1,ENSG00000277632.1,997,124.305,610,2348,300.363,2.416338844
+80,wP,Female,Not Hispanic or Latino,Asian,1/1/92,3/18/19,2021_dataset,616,0,0,Blood,1,ENSG00000277632.1,1255,143.819,618,3592,419.884,2.919530799
+81,wP,Male,Not Hispanic or Latino,White,1/1/93,3/18/19,2021_dataset,623,0,0,Blood,1,ENSG00000277632.1,12941,1693.435,625,2426,229.55,0.135552885
+82,aP,Female,Not Hispanic or Latino,More Than One Race,1/1/98,3/18/19,2021_dataset,630,0,0,Blood,1,ENSG00000277632.1,4995,680.992,632,8124,868.176,1.274869602
+83,aP,Female,Not Hispanic or Latino,White,1/1/99,4/8/19,2021_dataset,636,0,0,Blood,1,ENSG00000277632.1,2861,383.865,638,130,17.958,0.046782072
+84,aP,Female,Not Hispanic or Latino,More Than One Race,1/1/97,4/8/19,2021_dataset,643,0,0,Blood,1,ENSG00000277632.1,2445,192.089,645,595,56.412,0.293676369
+85,aP,Female,Hispanic or Latino,White,1/1/00,4/29/19,2021_dataset,650,0,0,Blood,1,ENSG00000277632.1,246,29.651,652,356,51.472,1.735927962
+86,aP,Female,Not Hispanic or Latino,Asian,1/1/98,4/29/19,2021_dataset,657,0,0,Blood,1,ENSG00000277632.1,384,40.133,659,571,58.762,1.464181596
+87,aP,Male,Not Hispanic or Latino,Asian,1/1/00,4/29/19,2021_dataset,664,0,0,Blood,1,ENSG00000277632.1,262,38.278,666,1068,160.23,4.185955379
+88,aP,Male,Not Hispanic or Latino,Asian,1/1/00,4/29/19,2021_dataset,669,0,0,Blood,1,ENSG00000277632.1,465,46.434,671,4288,441.348,9.504845587
+89,aP,Female,Not Hispanic or Latino,Asian,1/1/97,6/3/19,2021_dataset,674,0,0,Blood,1,ENSG00000277632.1,319,34.032,676,664,69.206,2.033556653
+90,aP,Female,Not Hispanic or Latino,Asian,1/1/99,6/3/19,2021_dataset,681,0,0,Blood,1,ENSG00000277632.1,324,27.584,683,439,38.313,1.388957367
+91,aP,Male,Unknown,Unknown or Not Reported,1/1/98,6/3/19,2021_dataset,688,0,0,Blood,1,ENSG00000277632.1,158,16.635,690,175,23.802,1.430838593
+92,aP,Female,Hispanic or Latino,White,1/1/00,6/24/19,2021_dataset,695,0,0,Blood,1,ENSG00000277632.1,219,23.642,697,275,26.316,1.113103798
+93,aP,Female,Not Hispanic or Latino,More Than One Race,1/1/96,6/24/19,2021_dataset,702,0,0,Blood,1,ENSG00000277632.1,272,23.535,704,291,32.281,1.371616741
+94,aP,Male,Not Hispanic or Latino,Unknown or Not Reported,1/1/99,6/24/19,2021_dataset,709,0,0,Blood,1,ENSG00000277632.1,178,26.578,711,140,18.308,0.688840394
+95,aP,Female,Hispanic or Latino,Unknown or Not Reported,1/1/98,6/24/19,2021_dataset,716,0,0,Blood,1,ENSG00000277632.1,260,28.41,718,210,25.533,0.898732841
+96,aP,Male,Hispanic or Latino,Unknown or Not Reported,1/1/00,6/24/19,2021_dataset,723,0,0,Blood,1,ENSG00000277632.1,145,19.483,725,177,22.314,1.145306164
